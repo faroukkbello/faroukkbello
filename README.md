@@ -1,6 +1,5 @@
 - 👋 Hi, I am Farouk Bello
-- 👀 I’m fascinated by the power of Data
-- 🌱 I’m currently learning Python Data Analytics
+- 👀 I am a Python Data Analyst
 - 📫 You can reach me via my linkedin page: https://www.linkedin.com/in/faroukk-bello
 
 <!---
