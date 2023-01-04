@@ -1,5 +1,5 @@
 - 👋 Hi, I am Farouk Bello
-- 👀 I am a Python Data Analyst
+- 👀 I do Data Science with Python.
 - 📫 You can reach me via my linkedin page: https://www.linkedin.com/in/faroukk-bello
 
 <!---
